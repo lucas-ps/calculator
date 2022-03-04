@@ -3,7 +3,7 @@
 
 A basic calculator app I made to get used to Java android development. To run, either open the project root in android studio or run the APK file on any android device that supports Android 5.0 (API level 21) or higher.
 
-<img src="https://raw.githubusercontent.com/lucas-ps/calculator/11c09e719c9a806c32e268e7c1202ec6926cf797/calculator_demo.gif" width="30%" height="30%"/>
+<img src="https://raw.githubusercontent.com/lucas-ps/calculator/master/calculator_demo.gif" width="30%" height="30%"/>
 
 # Credits
 
